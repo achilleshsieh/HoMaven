@@ -1094,20 +1094,6 @@ section.lazy-placeholder:after {
 .cid-s0MXnonGFV .mbr-section-btn {
   color: #0a0a0a;
 }
-.cid-s5v5ARRk7t {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #ffffff, #b5b5b5);
-}
-.cid-s5v5ARRk7t .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-s5v5ARRk7t .video-block {
-    width: 100% !important;
-  }
-}
 .cid-s4Yq15bknD {
   padding-top: 90px;
   padding-bottom: 90px;
